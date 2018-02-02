@@ -1,4 +1,4 @@
-# analysis of virus dna sequence in cpp
+# this is a vritual virus dna sequence analysis concept implemented in cpp
 
 			 cout << "************************************************************" <<endl<<endl;
 			 cout << "*                     WELCOME TO VIRUS LAB                   *" <<endl<<endl;
