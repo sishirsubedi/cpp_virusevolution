@@ -1,4 +1,4 @@
-# this is a vritual virus dna sequence analysis concept implemented in cpp
+# this is a virtual virus dna sequence analysis concept implemented in cpp
 
 			 cout << "************************************************************" <<endl<<endl;
 			 cout << "*                     WELCOME TO VIRUS LAB                   *" <<endl<<endl;
